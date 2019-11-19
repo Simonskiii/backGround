@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2105f5a-7c41-4b1c-a290-2ce73233a752" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="backGround" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ClassDesign" />
+  </component>
+  <component name="ProjectId" id="1RSLsadOSi5FAtuaoq5U0rHElyI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apps/utils" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\ClassDesign\backGround\apps\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\ClassDesign\backGround\apps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.backGround">
+    <configuration name="import_category_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="backGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_category_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_goods_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="backGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="backGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backGround" type="Python.DjangoServer" factoryName="Django server">
+      <module name="backGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="backGround.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.backGround" />
+      <item itemvalue="Python.import_category_data" />
+      <item itemvalue="Python.import_goods_data" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.import_goods_data" />
+        <item itemvalue="Python.import_category_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2105f5a-7c41-4b1c-a290-2ce73233a752" name="Default Changelist" comment="" />
+      <created>1568875380728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568875380728</updated>
+      <workItem from="1568875382624" duration="1242000" />
+      <workItem from="1568877373639" duration="1728000" />
+      <workItem from="1568879123704" duration="1874000" />
+      <workItem from="1568888333071" duration="4114000" />
+      <workItem from="1568892933696" duration="3917000" />
+      <workItem from="1568979619121" duration="50000" />
+      <workItem from="1568980774776" duration="139000" />
+      <workItem from="1569066096809" duration="4955000" />
+      <workItem from="1569325298441" duration="4095000" />
+      <workItem from="1569426705300" duration="2000" />
+      <workItem from="1569431128776" duration="998000" />
+      <workItem from="1569464269938" duration="3000" />
+      <workItem from="1569468152560" duration="22000" />
+      <workItem from="1569649938207" duration="4000" />
+      <workItem from="1569650453578" duration="3000" />
+      <workItem from="1569655761627" duration="781000" />
+      <workItem from="1569680718621" duration="1564000" />
+      <workItem from="1569686961687" duration="63000" />
+      <workItem from="1569687063508" duration="86000" />
+      <workItem from="1569687710258" duration="65000" />
+      <workItem from="1569753507569" duration="38000" />
+      <workItem from="1570508440688" duration="16000" />
+      <workItem from="1570516818220" duration="37000" />
+      <workItem from="1570521729464" duration="4000" />
+      <workItem from="1570521848990" duration="218000" />
+      <workItem from="1570522137888" duration="21000" />
+      <workItem from="1570522202506" duration="2000" />
+      <workItem from="1570522219556" duration="17000" />
+      <workItem from="1570522265271" duration="8000" />
+      <workItem from="1570531217142" duration="118000" />
+      <workItem from="1570536605411" duration="2000" />
+      <workItem from="1570604109535" duration="25000" />
+      <workItem from="1570607099565" duration="3205000" />
+      <workItem from="1570675982191" duration="1015000" />
+      <workItem from="1570695606494" duration="1277000" />
+      <workItem from="1570705301330" duration="533000" />
+      <workItem from="1570706304491" duration="117000" />
+      <workItem from="1570716454979" duration="78000" />
+      <workItem from="1570723661284" duration="9000" />
+      <workItem from="1570724073927" duration="192000" />
+      <workItem from="1570725082626" duration="209000" />
+      <workItem from="1570725307918" duration="122000" />
+      <workItem from="1570774870625" duration="33000" />
+      <workItem from="1570778264553" duration="3000" />
+      <workItem from="1570778849039" duration="27000" />
+      <workItem from="1570796780608" duration="5000" />
+      <workItem from="1570814027681" duration="15000" />
+      <workItem from="1570858057499" duration="8000" />
+      <workItem from="1570860002965" duration="830000" />
+      <workItem from="1570861518231" duration="103000" />
+      <workItem from="1570861638474" duration="69000" />
+      <workItem from="1570861729240" duration="59000" />
+      <workItem from="1570861804982" duration="235000" />
+      <workItem from="1570878169908" duration="2000" />
+      <workItem from="1571034572105" duration="502000" />
+      <workItem from="1571035128640" duration="1984000" />
+      <workItem from="1571134281725" duration="427000" />
+      <workItem from="1571295547537" duration="5000" />
+      <workItem from="1571298879530" duration="517000" />
+      <workItem from="1572328976069" duration="659000" />
+      <workItem from="1572329673671" duration="888000" />
+      <workItem from="1572497075464" duration="22000" />
+      <workItem from="1572510624096" duration="211000" />
+      <workItem from="1573370430078" duration="3465000" />
+      <workItem from="1573451170985" duration="8692000" />
+      <workItem from="1573465431414" duration="3199000" />
+      <workItem from="1573475672993" duration="1460000" />
+      <workItem from="1573546070684" duration="813000" />
+      <workItem from="1573553120153" duration="1601000" />
+      <workItem from="1573563031660" duration="2017000" />
+      <workItem from="1573630331057" duration="4383000" />
+      <workItem from="1573710997953" duration="899000" />
+      <workItem from="1573712277920" duration="1869000" />
+      <workItem from="1573730683128" duration="1555000" />
+      <workItem from="1573733777132" duration="3760000" />
+      <workItem from="1573810176636" duration="4029000" />
+      <workItem from="1573885499335" duration="12144000" />
+      <workItem from="1573989057125" duration="2685000" />
+      <workItem from="1574000909795" duration="1977000" />
+      <workItem from="1574055515226" duration="6515000" />
+      <workItem from="1574064802464" duration="1870000" />
+      <workItem from="1574078502179" duration="2768000" />
+      <workItem from="1574124447132" duration="1228000" />
+      <workItem from="1574142416911" duration="5370000" />
+      <workItem from="1574148432788" duration="3376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Python.DjangoServer">
+        <watch expression="a" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/backGround$import_category_data.coverage" NAME="import_category_data Coverage Results" MODIFIED="1568890360233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/backGround$import_goods_data.coverage" NAME="import_goods_data Coverage Results" MODIFIED="1568891884797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/backGround$test.coverage" NAME="test Coverage Results" MODIFIED="1569068522987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+  </component>
+</project>
